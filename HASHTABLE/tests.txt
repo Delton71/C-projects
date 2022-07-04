@@ -1,0 +1,87 @@
+create 0
+insert 0 abra shvabra
+find 0 abra
+insert 0 abar cadabra
+find 0 abar
+insert 0 aarb shvabra
+find 0 aarb
+insert 0 aabr cadabra
+find 0 aabr
+insert 0 arab shvabra
+find 0 arab
+insert 0 arba cadabra
+find 0 arba
+insert 0 abraa shvabra
+find 0 abraa
+insert 0 abrab cadabra
+find 0 abrab
+insert 0 abrac shvabra
+find 0 abrac
+insert 0 abrad cadabra
+find 0 abrad
+insert 0 abrae shvabra
+find 0 abrae
+insert 0 abraf cadabra
+find 0 abraf
+erase 0 abra
+find 0 abra
+erase 0 abar
+find 0 abar
+erase 0 aarb
+find 0 aarb
+erase 0 aabr
+find 0 aabr
+erase 0 arab
+find 0 arab
+erase 0 arba
+find 0 arba
+erase 0 abraa
+find 0 abraa
+erase 0 abrab
+find 0 abrab
+erase 0 abrac
+find 0 abrac
+erase 0 abrad
+find 0 abrad
+erase 0 abrae
+find 0 abrae
+erase 0 abraf
+find 0 abraf
+destroy 0
+insert 0 abra abra
+find 0 abra
+
+
+
+create 0
+insert 0 a a
+find 0 a
+insert 0 a b
+find 0 a
+insert 0 a c
+find 0 a
+insert 0 a d
+find 0 a
+erase 0 a
+find 0 a
+erase 0 a
+find 0 a
+insert 0 a e
+find 0 a
+
+// CAP, LIM = 4, 2
+create 0
+insert 0 a a
+find 0 a
+insert 0 b b
+find 0 a
+insert 0 c c
+find 0 a
+insert 0 d d
+find 0 a
+erase 0 a
+find 0 a
+erase 0 a
+find 0 a
+insert 0 a e
+find 0 a

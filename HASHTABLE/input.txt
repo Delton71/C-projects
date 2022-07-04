@@ -1,0 +1,15 @@
+create 0
+insert 0 a a
+find 0 a
+insert 0 b b
+find 0 a
+insert 0 c c
+find 0 a
+insert 0 d d
+find 0 a
+erase 0 a
+find 0 a
+erase 0 a
+find 0 a
+insert 0 a e
+find 0 a

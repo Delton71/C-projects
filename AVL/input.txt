@@ -1,0 +1,104 @@
+insert abra shvabra
+find abra
+insert abra cadabra
+find abra
+erase abra
+find abra
+insert a a
+insert b b
+insert c c
+insert d d
+insert e e
+insert f f
+insert g g
+insert h h
+insert j j
+insert k k
+insert l l
+insert m m
+insert n n
+insert o o
+insert p p
+insert q q
+insert r r
+insert s s
+insert t t
+insert u u
+insert v v
+insert w w
+insert x x
+insert y y
+insert z z
+find e
+find z
+find t
+erase t
+find t
+find z
+insert a a
+insert b b
+insert c c
+insert d d
+insert e e
+insert f f
+insert g g
+insert h h
+insert j j
+insert k k
+insert l l
+insert m m
+insert n n
+insert o o
+insert p p
+insert q q
+insert r r
+insert s s
+insert t t
+insert u u
+insert v v
+insert w w
+insert x x
+insert y y
+insert z z
+find e
+find z
+find t
+find t
+find z
+erase t
+erase s
+erase r
+erase q
+erase p
+erase o
+erase c
+erase d
+erase e
+erase f
+erase g
+find a
+find b
+find c
+find d
+find e
+find f
+find g
+find h
+find i
+find j
+find k
+find l
+find m
+find n
+find o
+find p
+find q
+find r
+find s
+find t
+find u
+find v
+find w
+find x
+find y
+find z
